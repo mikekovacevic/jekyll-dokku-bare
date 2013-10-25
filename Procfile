@@ -1,1 +1,1 @@
-web: bundle exec thin start -p 5000 -e production
+web: bundle exec jekyll --server -p 5000
